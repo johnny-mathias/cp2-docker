@@ -90,7 +90,7 @@ VALUES (
 
 SELECT * FROM movie;
 
-#### crUd - UPDATE (PUT)
+### crUd - UPDATE (PUT)
 
 UPDATE 
 UPDATE movie
