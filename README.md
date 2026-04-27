@@ -97,7 +97,7 @@ UPDATE movie
 SET rating = 9
 WHERE id = 3;
 
-### Confirmar alteração 
+#### Confirmar alteração 
 
 SELECT * FROM movie;
 
@@ -107,7 +107,7 @@ DELETE
 DELETE FROM movie
 WHERE id = 3;
 
-### Confirmar exclusão
+#### Confirmar exclusão
 
 SELECT * FROM movie;
 
